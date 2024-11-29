@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+header{
+    background-color: #313926;
+    text-align: center;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.reddead{
+    width: 100%;
+    height: 500px;
+}
+.sobre{
+    text-align: center;
+    padding-top: 40px;
+}
+.pouco{
+    font-size: 70px;
+}
+.sou{
+    font-size: 50px;
+    width: 1000px;
+    padding-left: 240px;
+    padding-top: 40px;
+}
+.JogarConversa{
+    display: flex;
+    padding-top: 30px;
+}
+.AcademiaCelular{
+    display: flex;
+    padding-top: 30px;
+    padding-top: 200px;
+}
+.hobbies{
+    text-align: center;
+    height: 1400px;
+    
+}
+.controle{
+    width: 350px;
+    height: 350px;
+}
+.conversa1, .conversa{
+    width: 350px;
+    height: 350px;
+}
+.academia{
+    width: 400px;
+    height: 400px;
+    padding-right: 250px;
+}
+.celular{
+    width: 350px;
+    height: 400px;
+}
+.JogarConversa, .AcademiaCelular{
+    justify-content: center;
+}
+.jogar{
+    width: 350px;
+    height: 350px;
+    padding-right: 250px;
+}   
+.celular1{
+    width: 280px;
+    height: 400px;
+}
+.hobbie{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 55px;
+}
+.sobre{
+    background-color: #FAF8F1;
+    padding-bottom: 50px;
+}
+.favoritos{
+    text-align: center;
+    background-color: #313926;
+}
+.favorito{
+    font-size: 50px;
+    color: #FAF8F1;
+    padding-top: 50px;
+}
+.interestellar, .twd, .canada1, .italia{
+    width: 450px;
+    height: 350px;
+}
+.filme, .jogo, .serie{
+    color: #FAF8F1;
+    width: 450px;
+}
+.reddead2{
+    width: 450px;
+    height: 350px;
+}
+.favoritos1, .Favoritos2{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    padding-top: 80px;
+}
+.Reddead, .Filme, .TWD, .italia1, .canada{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Favoritos2{
+    padding-bottom: 70px;
+}
+.lugares1{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 80px;
+}
+.Canada, .Italia{
+    width: 450px;
+}
+.Lugares{
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.lugares{
+    font-size: 50px;
+}
+footer{
+    background-color: #313926;
+    text-align: center;
+    padding-top: 30px;
+}
